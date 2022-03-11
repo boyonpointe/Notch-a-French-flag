@@ -3,9 +3,8 @@
 Codes related to modeling the role of contact-mediated cellular interactions in cell fate determination driven by positional information.
 
 The codes reproduce the results reported in
-> C. Kuyyamudi, S.N. Menon and  S.Sinha
-
-> Flags, Landscapes and Signaling: Contact-mediated inter-cellular interactions enable plasticity in fate determination driven by positional information
+> C. Kuyyamudi, S.N. Menon and  S.Sinha  
+> Flags, Landscapes and Signaling: Contact-mediated inter-cellular interactions enable plasticity in fate determination driven by positional information  
 > arXiv:2202.05731
 > https://arxiv.org/abs/2202.05731
 
