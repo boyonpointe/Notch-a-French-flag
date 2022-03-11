@@ -54,7 +54,7 @@ In order to use this code, Python3 needs to be installed with the following libr
 
 The code uses the data files available in the "Vis_Data" directory to give a visual summary of the flags obtained for a given coupling type using 10000 randomly sampled values for the six coupling parameters
 
-![Sample screenshot](https://github.com/boyonpointe/Notch-a-French-flag/blob/master/Vis_App_Screenshot.png?raw=true)
+![Sample screenshot](https://github.com/boyonpointe/Notch-a-French-flag/blob/master/Vis_App_Screenshot.png)
 
 - In the top box, the coupling types can be specified by using a string of length 6 containing only the digits 0 (no regulation), 1 (activation/positive regulation) and -1 (inhibition/negative regulation).
 For example the screenshot shows the case when the coupling type is "-1-1-1-1-1-1",
