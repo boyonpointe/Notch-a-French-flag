@@ -10,10 +10,10 @@ The codes reproduce the results reported in
 
 ##  Using the code French_Flag_All_Types.jl 
 
-In order to run the French_Flag_All_Types.jl, Julia version 1.7 or higher with "Differential Equations", "Random" and "NPZ" libraries needs to be installed.
-
 Aim: To investgate the consequence of different types of inter-cellular coupling schemes between cells on the expression dynamics of the genes B, W and R,
-and hence, cell fate
+and hence, cell fate.  
+
+In order to run the French_Flag_All_Types.jl, Julia version 1.7 or higher with "Differential Equations", "Random" and "NPZ" libraries needs to be installed.  
 
 The various coupling types differ from each other in terms of:
 (i) whether the ligand is activated/inhibited/unaffected by each of the patterning
