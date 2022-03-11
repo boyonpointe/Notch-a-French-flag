@@ -17,7 +17,7 @@ In order to run the French_Flag_All_Types.jl, Julia version 1.7 or higher with "
 
 The various coupling types differ from each other in terms of:
 (i) whether the ligand is activated/inhibited/unaffected by each of the patterning
-genes B, W and R,and
+genes B, W and R, and
 (ii) whether the genes B, W and R are themselves regulated by NICD positively/negatively/not at all.
 
 Thus, each of the 3^6 =729 possible coupling types can be uniquely represented
@@ -52,7 +52,7 @@ In order to use this code, Python3 needs to be installed with the following libr
 -Scipy
 -Networkx
 
-The code uses the data files available in the "Vis_Data" directory to give a visual summary of the flags obtained for a given coupling type using 10000 randomly sampled values for the six coupling parameters
+The code uses the data files available in the "Vis_Data" directory to give a visual summary of the flags obtained for a given coupling type using 10000 randomly sampled values for the six coupling parameters.
 
 ![Sample screenshot](Vis_App_Screenshot.png)
 
@@ -73,4 +73,4 @@ figures shown in our paper (cited at the beginning of this readme file).
 
 - The figure in the middle row shows the proportion of each of the three fates at the 30 different cell sites using stacked bar plots
 
-- the figure at the bottom shows the variance of cell fates at each of the 30 sites.
+- The figure at the bottom shows the variance of cell fates at each of the 30 sites.
